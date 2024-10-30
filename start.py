@@ -14,4 +14,4 @@ try:
 except ModuleNotFoundError:
     os.system('pip install threading')
     os.system('clear')
-os.system('bash r00t.sh')
+
