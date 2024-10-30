@@ -3,5 +3,5 @@ if [ $mno == root ]
   then
     python3 Brute_force-Tiktok.py
 else
-    sudo python3 Brute_force_Tiktok.py
+    sudo python3 Brute_force-Tiktok.py
 fi
