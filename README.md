@@ -20,6 +20,8 @@ cd Brute_force-Tiktok
 How do I operate the tool? :
 ---------------------------------
  • Now that we have downloaded it and opened the tool folder, 
+
+ By https://t.me/azad_s_haji
  ------------------------------------------
 
  • Now enter the type of your device, if it is a phone, put the number 2, if it is a computer, put the number 1
