@@ -14,6 +14,6 @@ try:
 except ModuleNotFoundError:
     os.system('pip install threading')
     os.system('clear')
-    os.system('r00.sh')
+    os.system('r00t.sh')
     
 
