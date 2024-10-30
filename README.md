@@ -12,4 +12,5 @@ Tool features :
  
 install in kali linux; 
 --------------------------
-sudo git clone
+sudo git clone https://github.com/azadsalaM813/Brute_force-Tiktok.git
+cd Brute_force-Tiktok
