@@ -11,4 +11,5 @@ Tool features :
  • Unfortunately it's a little slow
  
 install in kali linux; 
+--------------------------
 sudo git clone
