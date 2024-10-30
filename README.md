@@ -8,3 +8,5 @@ Tool features :
  • Combo Type: user:pass
  • It works on all devices
  • Unfortunately it's a little slow
+install in kali linux; 
+sudo git clone
